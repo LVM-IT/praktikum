@@ -1,2 +1,2 @@
-# praktikum
+# Praktikum
 Example Code for Trainees
